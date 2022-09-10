@@ -50,12 +50,27 @@ class Pedido
         bool respuesta;
         bool confirmacion;
     public:
-		Pedido(int,int,int,int,int,int,bool);
+	Pedido(int,int,int,int,int,int,bool);
         void generarPedido(int,int,int,int,int,int);
         void check();
-        void verificacion();
+};
+class Recibir{
+	private:
+	int idPedido;
+        int Rtrafic;
+        int Rstandar;
+        int Rspecial;
+        int idZona;
+        int idAgencia;
+        int camiones;
+        Recibir(int,int,int,int,int,int,int);
+    public:
+    	int interior[30][3];
+    	int gbaCaba[20][3];
+    	void verificacion();
         void DevolverPedido();
         void finPedido();
+    	
 };
 
 #endif 
