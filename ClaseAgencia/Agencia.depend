@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1662826409 source:c:\users\ariel\desktop\camila\otto krause\poo\1er proyecto grupal\claseagencia\main.cpp
+	<iostream>
+	"Agencia.h"
+
+1662473785 source:c:\users\ariel\desktop\camila\otto krause\poo\1er proyecto grupal\claseagencia\src\claseagencia.cpp
+	<iostream>
+	<string>
+	"Agencia.h"
+
+1662825983 c:\users\ariel\desktop\camila\otto krause\poo\1er proyecto grupal\claseagencia\include\agencia.h
+	<string>
+	<iostream>
+
+1662826593 source:c:\users\ariel\desktop\camila\otto krause\poo\1er proyecto grupal\claseagencia\src\agencia.cpp
+	<iostream>
+	<string>
+	"Agencia.h"
+
