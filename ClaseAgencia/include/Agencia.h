@@ -32,8 +32,8 @@ class Pedido
 
 
 /* cambio Orrego
-#ifndef AGENCIA_H
-#define AGENCIA_H
+#ifndef PEDIDO_H
+#define PEDIDO_H
 #include<string>
 #include<iostream>
 using namespace std;
